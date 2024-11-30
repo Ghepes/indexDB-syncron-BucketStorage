@@ -27,13 +27,13 @@ Frontend Project file to URL [https://](https://github.com/Ghepes/indexDB-syncro
 a. Setup-ul aplicației Electron.js
 Creează structura fișierelor:
 
-plaintext
-Copy code
+````
 frontend/
 ├── main.js
 ├── renderer.js
 ├── index.html
-├── styles.css
+├── styles.css`
+````
 Instalează Electron:
 
 
