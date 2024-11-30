@@ -36,7 +36,7 @@ frontend/
 ├── index.html
 ├── styles.css`
 ````
-Instalează Electron:
+Install Electron:
 
 
 npm install electron
