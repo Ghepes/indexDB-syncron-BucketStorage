@@ -34,9 +34,27 @@ frontend/
 ├── main.js
 ├── renderer.js
 ├── index.html
-├── styles.css`
+├── styles.css
 ````
 Install Electron:
 
 
 npm install electron
+
+
+
+3. Configure the .env file
+Create an .env file in the project directory to store the Google Cloud keys:
+
+GCLOUD_PROJECT_ID=your-project-id
+GCLOUD_BUCKET_NAME=your-bucket-name
+GCLOUD_KEYFILE=path/to/service-account-key.json
+
+4. Run the application
+Install all dependencies:
+
+npm install
+Run the Electron application:
+
+npm start
+

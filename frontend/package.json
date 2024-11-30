@@ -1,0 +1,26 @@
+{
+  "name": "indexdb-synic-bucket-storage",
+  "version": "1.0.0",
+  "description": "Frontend from indexdb to synic with bucket google storage",
+  "main": "main.js",
+  "scripts": {
+    "test": "test start",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghepes/indexDB-syncron-BucketStorage/frontend/"
+  },
+  "keywords": [
+    "indexdb",
+    "synic",
+    "bucket",
+    "google",
+    "storage"
+  ],
+  "author": "Ghepes",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^33.2.1"
+  }
+}
