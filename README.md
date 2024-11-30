@@ -1,7 +1,7 @@
 # indexDB-syncron-BucketStorage
  Synic data from indexDB with google Bucket Storage
 
-Backend Project file to URL [https://](https://github.com/Ghepes/indexDB-syncron-BucketStorage/backend/)
+Backend Project file to URL [Backend file](https://github.com/Ghepes/indexDB-syncron-BucketStorage/backend/)
 1. Google Cloud Storage Setup
 a. Google Cloud Bucket Configuration
 Create a Bucket in Google Cloud:
@@ -22,7 +22,7 @@ In the main project directory:
 
 npm install @google-cloud/storage dotenv
 
-Frontend Project file to URL [https://](https://github.com/Ghepes/indexDB-syncron-BucketStorage/frontend/)
+Frontend Project file to URL [Frontend file](https://github.com/Ghepes/indexDB-syncron-BucketStorage/frontend/)
 2. Frontend Electron.js
 a. Setup-ul aplicației Electron.js
 Creează structura fișierelor:
